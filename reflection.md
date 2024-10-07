@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jacob VonTersch
+Sudent Email:  jvonters@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,14 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+What did you learn?
+I learned more about the testing. I completed my tests and it was super easy to go in and debug after trying to run the tests for the first time. This was very helpful in completing the assignment.
+
+ What confuses you? 
+ It confuses me when sometimes vscode cannot find a file or location of something. Sometimes I am in a different termanial like powershell or python, and I need to be in the correct one for my tests and functions to work properly. I need help with this in class.
+
+ Where did you struggle?
+ I stuggled with the last test. Apparently openpyxl was not imported and streamlit. But i know they are installed and should be working. I got streamlit to work, but the openpyxl still does not work and my final test is failing. I do not know what to do.
+
+  Where might you need more practice?
+  I think I just need more practice learning all the streamlit functions. The co-pilot is able to help me out with most everything, and I know what is going on when it suggest something, but I wouldnt be able to do it without co pilots help. So i need to do a little more learning yet.
